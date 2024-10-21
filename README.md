@@ -1,16 +1,21 @@
-## Hi there 👋
+非常熟练
 
-<!--
-**Rika-L/Rika-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,tailwind,pinia,vite)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+
+可以写一点
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=express,prisma,mysql,mongo,nodejs)](https://skillicons.dev)
+
+想学
+
+[![My Skills](https://skillicons.dev/icons?i=solidjs,svelte,webpack,astro,vim)](https://skillicons.dev)
+
+学过但是放弃了/忘记了
+
+[![My Skills](https://skillicons.dev/icons?i=java,go,nest,py,django)](https://skillicons.dev) 
