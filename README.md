@@ -10,4 +10,4 @@ I am a junior student.
 
 <h2>I use</h2>
 
-[![My Utils](https://skillicons.dev/icons?i=windows,vscode)](https://skillicons.dev)
+[![My Utils](https://skillicons.dev/icons?i=windows,vscode,vim)](https://skillicons.dev)
