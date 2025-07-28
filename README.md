@@ -1,9 +1,15 @@
-# Hey
+# 👋 Hi
 
-<h2>I can</h2>
+I believe: Depth >> Breadth.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,tailwind,pinia,vite,md,react,next)](https://skillicons.dev)
+<h2>Languages</h2>
 
-<h2>I use</h2>
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 
-[![My Utils](https://skillicons.dev/icons?i=windows,vscode,vim)](https://skillicons.dev)
+<h2>Frameworks</h2>
+
+[![My Frameworks](https://skillicons.dev/icons?i=vue,nuxt,pinia,vite,react,next,tailwind,vitest)](https://skillicons.dev)
+
+<h2>Tools</h2>
+
+[![My Tools](https://skillicons.dev/icons?i=windows,linux,vscode,vim)](https://skillicons.dev)
